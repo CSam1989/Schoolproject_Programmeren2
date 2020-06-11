@@ -10,6 +10,6 @@ Programmeren 1 => Inleiding tot Programmeren (Geen project)
 
 Programmeren 3 => Advanced Programmeertechnieken & WPF / MVVM (Project .NET)
 
-Programmeren 4 => Inleiding Java (Groepsproject Java) **(Coming soon)**
+Programmeren 4 => Inleiding Java (Groepsproject Java)
 
-Programmeren 5 => Programmeren in MVC/Razor pages & WebAPI/Angular (Project MVC/Razor & API/Angular) **(Coming soon)**
+Programmeren 5 => Programmeren in MVC/Razor pages & WebAPI/Angular (Project MVC/Razor & API/Angular)
